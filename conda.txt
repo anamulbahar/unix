@@ -41,17 +41,13 @@ conda install -c bioconda abyss -y
 conda install -c bioconda bwa -y
 conda install -c bioconda bcftools -y
 conda install -c bioconda htslib -y
-conda install -c bioconda samtools -y
-conda install -c bioconda gatk4 -y
-conda install -c bioconda maker -y
 conda install -c bioconda mummer -y
 conda install -c bioconda soapdenovo2 -y
 conda install -c bioconda quast -y
 conda install -c bioconda busco -y
-conda install -c bioconda fastp -y
 conda install -c bioconda fastqc -y
-conda install -c bioconda trimmomatic -y
-conda install -c bioconda repeatmasker -y
+conda install -c bioconda sra-tools -y
+
 
 
 
